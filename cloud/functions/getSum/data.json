@@ -1,0 +1,20 @@
+{
+  "name":"so json 在线工具",
+  "url":"https://www.sojson.com",
+  "address":{
+      "city":"北京",
+      "country":"中国"
+  },
+  "arrayBrowser":[{
+      "name":"Google",
+      "url":"http://www.google.com"
+  },
+  {
+     "name":"Baidu",
+     "url":"http://www.baidu.com"
+ },
+ {
+     "name":"SoSo",
+     "url":"http://www.SoSo.com"
+ }]
+}
